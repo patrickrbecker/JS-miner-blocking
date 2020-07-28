@@ -1,8 +1,8 @@
 # Description: This list crushes miner domains and java script miners
 # An added bonus of MSFT telemetry domains 
 # https://github.com/Marfjeh/coinhive-block/blob/master/domains
-# Last modified: 12-14-17, 2-15-18, 2-18-19, 2-20-19
-# List maintained by Becker
+# Last modified: 12-14-17, 2-15-18, 2-18-19, 2-20-19, 7-28-2020
+# List maintained by pat
 0.0.0.0 	2giga.link
 0.0.0.0 	803mine.com
 0.0.0.0 	aajychvi.bid
